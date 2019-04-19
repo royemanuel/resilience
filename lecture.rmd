@@ -11,30 +11,36 @@ output: md_document
 1. Introduce
    1. Resilience
 1. Visual method
-   1. Performance graph
+   1. Performance graph - describe axes
 # Reliability
 1. Definition
 1. Time to failure
-1. Performance graph
+# Reliability Performance Graph
+1. Performance graph with performance at 1 and falling to zero at some time
+2. Transition to improving reliability through moving the time to
+   failure to the right
 # Availability
 1. Definition
 1. Equation
-1. Downtime
+1. Downtime - describe reasons for downtime
    1. Time to repair
    2. Logistics delay time
    3. etc.
+# Availability Performance Graph
 1. Performance graph
-# Review what has been covered so far
-# Resilience definition
-1. Cover several different ones
-1. Show what they all seem to agree upon
-1. Picture of the resilience performance diagram
+   1. Demonstrate methods to improve availability through the
+      performance graph. Multiple failure repair cycles
+	  1. Lengthen time to failure
+  2. Shorten downtime
 # Resilience history
-1. Holling environmental and where that has gone
-1. Hollnagel
-   1. Functional decomposition
-   2. Stress what is necessary for success
-	  1. Revisit the Operationalizing Resilience article
+1. ??
+# Resilience definition
+1. Cover several different definitions
+1. Show what they all agree upon
+# Resilience performance graph
+1. Degradation profile
+2. Recovery profile
+3. Robustness
 # Resilient System of Systems
 1. Picture of the most complicated system in the picture
 1. Woods (or is it Wears) system dynamics model of resilience
@@ -44,17 +50,28 @@ output: md_document
    2. Redundancy
    2. Resourcefulness
 1. Label these in the Woods or Wears system dynamics model
+1. Holling environmental and where that has gone
+1. Hollnagel
+   1. Functional decomposition
+   2. FRAM discussion
+   2. Stress what is necessary for success
+      1. Revisit the Operationalizing Resilience article
 1. Review resilient system design
 # Measuring Resilience
 1. Performance graph. 
    1. Introduce stakeholder needs
+	  1. Time horizon
+	  2. Endogenous preference
+	  3. Intertemporal substitutability
    1. Draw the picture of it
    1. What values can it take?
    1. How does it look for reliability?
    1. Availability?
    1. Resilience curves.
 1. How to choose among designs
-   1. ONe method. Hybrid resilience framework
+   1. One available method: Hybrid resilience framework
    1. System model
    1. Resilience model
-   1. Output. 
+   1. Output.
+# Case study - city firefighting
+# Case study - post-Maria Puerto Rico
