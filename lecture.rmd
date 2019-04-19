@@ -1,0 +1,60 @@
+---
+Author: Roy Emanuel
+Title: Reliability, Availability, and Resilience
+output: word_document
+---
+# Introduction and concepts to cover
+1. Review
+   1. Reliability
+   2. Availability
+   3. Maintainability
+1. Introduce
+   1. Resilience
+1. Visual method
+   1. Performance graph
+# Reliability
+1. Definition
+1. Time to failure
+1. Performance graph
+# Availability
+1. Definition
+1. Equation
+1. Downtime
+   1. Time to repair
+   2. Logistics delay time
+   3. etc.
+1. Performance graph
+# Review what has been covered so far
+# Resilience definition
+1. Cover several different ones
+1. Show what they all seem to agree upon
+1. Picture of the resilience performance diagram
+# Resilience history
+1. Holling environmental and where that has gone
+1. Hollnagel
+   1. Functional decomposition
+   2. Stress what is necessary for success
+	  1. Revisit the Operationalizing Resilience article
+# Resilient System of Systems
+1. Picture of the most complicated system in the picture
+1. Woods (or is it Wears) system dynamics model of resilience
+1. Four R's and considerations in resilient design
+   1. Robustness
+   1. Rapidity
+   2. Redundancy
+   2. Resourcefulness
+1. Label these in the Woods or Wears system dynamics model
+1. Review resilient system design
+# Measuring Resilience
+1. Performance graph. 
+   1. Introduce stakeholder needs
+   1. Draw the picture of it
+   1. What values can it take?
+   1. How does it look for reliability?
+   1. Availability?
+   1. Resilience curves.
+1. How to choose among designs
+   1. ONe method. Hybrid resilience framework
+   1. System model
+   1. Resilience model
+   1. Output. 
