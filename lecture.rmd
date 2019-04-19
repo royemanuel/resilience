@@ -1,7 +1,7 @@
 ---
 Author: Roy Emanuel
 Title: Reliability, Availability, and Resilience
-output: word_document
+output: md_document
 ---
 # Introduction and concepts to cover
 1. Review
